@@ -6,6 +6,7 @@ Hi, this project is my trek in exploring all things machine learning–– model
 ## Slides
 Want a quick view of my models and thinking process? Here's the place:
 [View Slideshow →](https://github.com/showssteamrolls/ShowsSpenders/blob/main/ML%20Predicting%20Default%20Risk.pdf)
+
 What's Inside:
 - Multiple models: Logistic Regression, Random Forest, XGBoost, SVM, etc.
 - Preprocessing steps like scaling, encoding, SMOTE
