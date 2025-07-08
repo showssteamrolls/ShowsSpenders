@@ -7,10 +7,8 @@ Hi, this project is my trek in exploring all things machine learning–– model
 Best performing model thus far:
 ![Best Model Results](/best_model_results.png)
               precision    recall  f1-score   support
-
            0       0.88      0.84      0.86      4673
            1       0.51      0.59      0.55      1327
-
     accuracy                           0.79      6000
    macro avg       0.70      0.71      0.70      6000
 weighted avg       0.80      0.79      0.79      6000
