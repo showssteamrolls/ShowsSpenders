@@ -15,6 +15,6 @@ What's Inside:
 
 ## Notebook (ipynb)
 Want a look into my programming? Here:
-[View Slideshow →](https://github.com/showsteamrolls/ShowsShares/blob/main/ShowsSpendersLoanRiskProfiling.pdf)
+[View Notebook/Code →](Project_LoanRiskProfiling (2).ipynb)
 
 
