@@ -5,7 +5,7 @@ Hi, this project is my trek in exploring all things machine learning–– model
 
 ## Preview
 Best performing model thus far:
-![Best Model Results](images/best_model_results.png)
+![Best Model Results](/best_model_results.png)
 
 ## Slides
 Want a quick view of my models and thinking process? Here's the place:
