@@ -15,6 +15,6 @@ What's Inside:
 
 ## Notebook (ipynb)
 Want a look into my programming? Here:
-[View Notebook/Code →]([https://github.com/showssteamrolls/ShowsSpenders/blob/main/Project_LoanRiskProfiling%20(2).ipynb])
+[View Notebook/Code →](https://github.com/showssteamrolls/ShowsSpenders/blob/main/Project_LoanRiskProfiling%20(2).ipynb)
 
 
