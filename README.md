@@ -6,7 +6,6 @@ Hi, this project is my trek in exploring all things machine learning–– model
 ## Preview
 Best performing model thus far:
 ![Best Model Results](/best_model_results.png)
-
               precision    recall  f1-score   support
 
            0       0.88      0.84      0.86      4673
